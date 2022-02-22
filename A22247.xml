@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singuler  archbishops, bishops, archdeacons, deanes and their officials ... greeting  : whereas wee are credibly giuen to understand ... that our poore distressed subiect Thomas Peeke of the towne of Lodden ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22247</idno>
+            <idno type="STC">STC 8658</idno>
+            <idno type="STC">ESTC S3809</idno>
+            <idno type="EEBO-CITATION">33151019</idno>
+            <idno type="OCLC">ocm 33151019</idno>
+            <idno type="VID">28868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28868)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:130)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singuler  archbishops, bishops, archdeacons, deanes and their officials ... greeting  : whereas wee are credibly giuen to understand ... that our poore distressed subiect Thomas Peeke of the towne of Lodden ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Roger Wood, and Thomas Symcocke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1620 [i.e. 1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For 1-year collections on behalf of T. Peeke, for losses by fire.</note>
+                  <note>Title and other title information from first 11 lines of text.</note>
+                  <note>"Witnes our selfe at Westminster, the Thirteenth day of February, in the Eighteenth yeare of our Raigne of England, France and Ireland: And of Scotland the Foure and Fiftieth. 1620."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peeke, Thomas, fl. 1621.</term>
+               <term>Church of England --  Charitable contributions.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28868:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>
+               <figure>
+                  <p>I R</p>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES By the grace of God, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed>
+               <salute>To all and ſinguler Archbiſhops, Biſhops, Arch<g ref="char:EOLhyphen"/>beacons, Deanes, and their Officials, Parſons, Vicars, Curats, and to all ſpirituall perſons. And alſo to all Iuſtices of Peace, Maiors, Sheriffes, Bayliffes, Conſtables, Churchwardens and Head boroughes: And to all Officers of Citties, Boroughes, and Townes corporate: And to all other our Officers, Miniſters, and Subiects whatſoeuer they be, aſwell within liberties, as without, to whom theſe preſents ſhall ſome, gréeting:</salute>
+            </opener>
+            <p>WHEREAS wee are very credibly giuen to vnderſtand, by a Certificate vnder the hands of our truſty and welbe loued Subiects Sir <hi>Iohn Tasburgh,</hi> and Sir <hi>Anthony Drury</hi> Knights, <hi>Anthony Hobart, Owen Shepheard, Iohn Smith,</hi> and <hi>Ieffery Warde</hi> Eſquires, Iuſtices of the Peace within our County of <hi>Norfolke,</hi> That our poore diſtreſſed Subject <hi>Thomas Peeke</hi> of the Towne of <hi>Lodden,</hi> in our fore ſaid County Husband<g ref="char:EOLhyphen"/>man, hath heretofore boene a man of good eſtate and account, and one that all his life time liued in good ſort and reputation amongſt his neighbours, but ſo it is that he is now fallen into great want and pouerty, by reaſon of a ſodaine and fearefull Fire happing on the Eight and twentieth day of March laſt paſt, in the night time (through the negligence of a lewde and idle Seruant) which conſumed and burnt downe to the ground his dwelling Houſe, and other houſes of office<g ref="char:punc">▪</g> houſhold ſtuffe, Corne of diuers kindes, prouiſion of houſhold and other Commodities, and ſome Writings of great moment, amounting in all the whole loſſe to the value of Three hundred pounds, to the vtter vndoing of our ſaid poore Subiect, who was heretofore a Farmer of about a hundred pound a yeare, and able to maintaine his charge of Wife, Children and family in good credit and faſhion and to giue reliefe vnto others: but ſo miſerable is his eſtate now, that he is not able to helpe himſelfe, but being lyable to rebuild his ſaid Houſe againe, is likely to continue the reſt of his dayes in great miſery, vnleſſe ſome charitable courſe be forthwith taken for his reliefe herein, whoſe miſerable and poore eſtate wée much pitty, and haue thought good vpon the humble requeſt of all our foreſaid Iuſtices made vnto Vs in his behalfe, to commend the ſame vnto the charitable conſideration of all our louing and weldiſpoſed Subiects within certaine Counties hereafter mentioned, not doubting but that all good Chriſtians well weighing the premiſes, will be ready and willing as féeling members one of anothers miſerie, to ex<g ref="char:EOLhyphen"/>tend their charitable contributions towards his reliefe and Comfort of their poore diſtreſſed Brother, in this his great neceſſity.</p>
+            <p>KNOW yee therefore, of Our eſpeciall Grace and Princely compaſſion We haue giuen and granted, and by theſe our Letters Patents doe giue and graunt, vnto our ſaid poore Subiect <hi>Thomas Peeke,</hi> and to his Deputy and Deputies, the bearer or bearers hereof, full power, licence, and Authority, to aske, gather, receiue and take the Almes and charitable beneuolence of all our louing Sub<g ref="char:EOLhyphen"/>iects whatſoeuer, In habiting within our Counties of <hi>Norfolke, Suffolke, Eſſex Hertford, Kent, Middleſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x, Cambridge</hi> and Surrey, with our Citty of <hi>Norwich,</hi> and in our Citties of <hi>Canterbury, Rocheſter,</hi> and the Cinque Portes, with our Citty of <hi>Weſtminſter,</hi> and Borough of <hi>Southwarke,</hi> with our Vniuerſity of <hi>Cambridge,</hi> and Iſle of <hi>Ely,</hi> And in all other Cities, Townes Corporate, Priuiledged places, Pa<g ref="char:EOLhyphen"/>riſhes, Villages, and in all other places whatſoeuer within our ſaid Counties, and not elſe where, for and towards the recouery of his ſaid loſſe, and the reliefe and maintenance of himſelfe, and his poore Wife and Chidren.</p>
+            <p>WHEREFORE wée will and Commaund you and euery of you, that at ſuch time and times, as the ſaid <hi>Thomas Peeke,</hi> or his Deputy or Deputies, the bearer or bearers hereof, ſhall come &amp; repaire vnto any your Churches, Chappels, or other places, to aske and receiue the gratuities and charitable beneuolence of our ſaid Subiects, quietly to permit and ſuffer them ſo to doe, without any man<g ref="char:EOLhyphen"/>ner your lets or contradictions, And you the ſaid Parſons, Vicars, and Curats, for the better ſtirring vp of a charitable deuotion, delibe<g ref="char:EOLhyphen"/>rately to publiſh and declare the Tenor of theſe our Letters Patents, vnto our ſaid Subiects vpon ſome Sabaoth day, when as the ſame ſhall be tendered vnto you. Exhorting and perſwading them to extend their liberall coutributions in ſo good and charitable a deed. And you the Churchwardens of euery Pariſh, where ſuch Collection is to be made (as aforeſaid) to Collect and gather the Almes and chari<g ref="char:EOLhyphen"/>table beneuolence of all our louing Subiects, aſwell Strangers as others: and what ſhall be by you ſo gathered, to deliuer it to the bearer or bearers of theſe our Letters Patents and to no other perſon, when as thereunto you ſhalbe required. And laſtly, whereas we are in<g ref="char:EOLhyphen"/>formed of the great abuſe which is now crept in amongſt theſe poore people, who ſell their Lycences vnto ſome other other perſon, whereby mens charity goeth not the right may, but vnto ſuch as deſerue it leaſt: That from henceforth our will and pleaſure is, that if it may ap<g ref="char:EOLhyphen"/>peare vnto you or any of you that the ſaid <hi>Thomas Peeke,</hi> haue contracted any bargaine, or made or ſhall make ſale of theſe our Letters Patents, whereby the benefit ſhould paſſe from him to any other perſon, That thereupon theſe our Letters Patents ſhall be voide and of none effect. Any Statute, Law, Ordinance, or Prouiſion, heretofore made to the contrary in any wiſe notwithſtanding.</p>
+            <p>IN witneſſe whereof, Wée haue cauſed theſe our Letters to be made Patents for the ſpace of One whole yeare next after the date hereof to endure.</p>
+            <closer>
+               <dateline>Witnes our ſelfe at <hi>Weſtminſter</hi> 
+                  <date>the Thir<g ref="char:EOLhyphen"/>teenth day of February, in the Eighteenth yeare of our Raigne of <hi>England, France,</hi> and <hi>Ireland:</hi> And of <hi>Scotland</hi> the Foure and Fiftieth. 1610.</date>
+               </dateline>
+               <signed>❀ Steward.</signed>
+❀ God ſave the King<g ref="char:punc">▪</g>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed By Roger Wood, and Thomas Symcocke.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Aprill, 20. <hi>Anno Dom.</hi> 1621.</date>
+               </dateline>
+            </opener>
+            <p>Cum Priuilegio.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
